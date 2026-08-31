@@ -1,0 +1,6 @@
+{
+  "name": "CBT Seleksi Eksekutif SENDRATASIK",
+  "description": "Aplikasi CBT Tes Kemampuan Organisasi untuk Seleksi Calon Eksekutif Ekstrakurikuler SENDRATASIK MAN Purbalingga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
